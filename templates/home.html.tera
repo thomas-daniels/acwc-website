@@ -12,10 +12,10 @@
 {% endblock add_to_head %}
 
 {% block content %}
-<h2 align="center">Registrations open on 1 August at 0:00 UTC!</h2>
+<h2 align="center">Registrations open on 15 July at 0:00 UTC!</h2>
 <p align="center" id="countdown"></p>
 <script>
-const open = new Date(Date.UTC(2024, 7, 1, 0, 0, 0));
+const open = new Date(Date.UTC(2025, 6, 15, 0, 0, 0));
 function refreshCountdown() {
     var diff = Math.max(0, Math.ceil((open - (new Date())) / 1000));
     var seconds = diff % 60;

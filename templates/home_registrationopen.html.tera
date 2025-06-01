@@ -5,7 +5,7 @@
 {% block content %}
 <div class="row justify-content-md-center"><h2>Registrations are open!</h2></div>
 <div class="row justify-content-md-center"><h3>Please carefully read <a href="https://chronatog.com/2024/07/the-2024-atomic-chess-world-championship-rules/">THE RULES</a> before entering!</h3></div>
-<div class="row justify-content-md-center"><h4>Registrations close September 1, 00:00 UTC.</h4></div>
+<div class="row justify-content-md-center"><h4>Registrations close 15 August, 23:59 UTC.</h4></div>
 <div class="row justify-content-md-center mt-3">
 <form method="GET" action="/auth">
   <button type="submit" class="btn btn-primary">
