@@ -3,7 +3,7 @@
 {% block title %}Home{% endblock title %}
 
 {% block content %}
-<div class="row justify-content-md-center"><h3>Please carefully read <a href="https://chronatog.com/2024/07/the-2024-atomic-chess-world-championship-rules/">THE RULES</a> before entering!</h3></div>
+<div class="row justify-content-md-center"><h3>Please carefully read <a href="https://lichess.org/@/HowlinD/blog/the-2025-atomic-chess-world-championship-rules/XW9Ph1Mc">THE RULES</a> before entering!</h3></div>
 <div class="row justify-content-md-center mt-3">
 <form method="POST" action="/register">
   <div class="form-group">
