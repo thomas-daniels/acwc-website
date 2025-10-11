@@ -358,6 +358,7 @@ fn main() {
                 rules_2022,
                 rules_2023,
                 rules_2024,
+                rules_2025,
             ],
         )
         .launch();
