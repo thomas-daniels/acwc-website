@@ -1,0 +1,21 @@
+{% extends "base" %}
+
+{% block title %} Rules (2025) {% endblock title %}
+
+{% block add_to_head %}
+<style>
+    li {
+        margin-bottom: 0.25vh;
+    }
+
+    ol#rules-root>li {
+        margin-bottom: 2vh;
+    }
+</style>
+{% endblock add_to_head %}
+
+{% block content %}
+
+<h2>ACWC Rules (2025 edition)</h2>
+
+{% endblock content %}
