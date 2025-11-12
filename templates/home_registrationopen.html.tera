@@ -5,7 +5,7 @@
 {% block content %}
 <div class="row justify-content-md-center"><h2>Registrations are open!</h2></div>
 <div class="row justify-content-md-center"><h3>Please carefully read <a href="/assets/doc/rules2025.pdf">THE RULES</a> before entering!</h3></div>
-<div class="row justify-content-md-center"><h4>Registrations close September 7, 00:00 UTC.</h4></div>
+<div class="row justify-content-md-center"><h4>Registrations close November 28, 23:59 UTC.</h4></div>
 <div class="row justify-content-md-center mt-3">
 <form method="GET" action="/auth">
   <button type="submit" class="btn btn-primary">
