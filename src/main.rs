@@ -322,12 +322,6 @@ fn main() {
                 admin_review,
                 admin_action,
                 logout,
-                rules_2019,
-                rules_2020,
-                rules_2021,
-                rules_2022,
-                rules_2023,
-                rules_2024,
                 rules_2025,
             ],
         )
