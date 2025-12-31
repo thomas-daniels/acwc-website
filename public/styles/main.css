@@ -13,7 +13,7 @@ body {
 }
 
 .title:before {
-  content: 'Antichess World Championship';
+  content: 'Horde World Championship';
 }
 
 .navbar a {
@@ -22,6 +22,6 @@ body {
 
 @media screen and (max-width:460px) {
   .title:before {
-    content: 'Antichess WC';
+    content: 'Horde WC';
   }
 }

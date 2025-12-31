@@ -3,12 +3,12 @@
 {% block title %}Home{% endblock title %}
 
 {% block content %}
-<h2 align="center">The ACWC has started!</h2>
+<h2 align="center">The HWC has started!</h2>
 <p>
   Useful links:
   <ul>
     <li><a href="/rules/2025">The rules</a></li>
-    <li><a href="https://lichess.org/team/antichess-wc">Lichess team</a></li>
+    <li><a href="https://lichess.org/team/horde-world-championship">Lichess team</a></li>
   </ul>
 </p>
 {% endblock content %}

@@ -12,9 +12,9 @@
   </div>
   <div class="form-check">
     <input type="checkbox" class="form-check-input" id="read-rules" required>
-    <label class="form-check-label" for="read-rules">I have read and understood, and will comply to, the ACWC rules.</label>
+    <label class="form-check-label" for="read-rules">I have read and understood, and will comply to, the HWC rules.</label>
   </div>
-  <button type="submit" class="btn btn-primary mt-3 py-4" style="width:100%">Register for the ACWC</button>
+  <button type="submit" class="btn btn-primary mt-3 py-4" style="width:100%">Register for the HWC</button>
 </form>
 </div>
 {% endblock content %}
